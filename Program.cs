@@ -1,6 +1,6 @@
 ﻿/*
 ** ----------------------------------------------------------------------------
-** Filename: addpath.rex
+** Filename: addpath.cs
 ** Version:  1
 ** Revision: 0
 ** Release:  2019-10-19
