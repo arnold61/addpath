@@ -1,4 +1,18 @@
-﻿using System ;
+﻿/*
+** ----------------------------------------------------------------------------
+** Filename: addpath.rex
+** Version:  1
+** Revision: 0
+** Release:  2019-10-19
+** Author:   Arnold Sebr <arnold@sebr.name>
+** ----------------------------------------------------------------------------
+** (C) Copyright 2019 by Arnold Sebr. All rights reserved.
+** ----------------------------------------------------------------------------
+*/
+/*
+** includes
+*/
+using System ;
 using System.Collections.Generic ;
 using System.Text ;
 using System.Text.RegularExpressions ;
